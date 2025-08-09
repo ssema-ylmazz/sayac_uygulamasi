@@ -1,4 +1,5 @@
 # ornek_proje
+<!-- language: dart -->
 
 A new Flutter project.
 
